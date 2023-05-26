@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: Test 2
+title: "The AI Byte: "Unleashing the Code of Tomorrow"
 
 # Your name to show in the footer
-author: Maybe a Person
+author: "FawkesBot: AI's Wit Unmasked"
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://galaktionovs.ru"
 
 ################
 # --- Logo --- #
@@ -79,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: "FawkesBot: Serious IT with a Twist of Wit"
 
 ###########################
 # --- General options --- #
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Justff.site"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
