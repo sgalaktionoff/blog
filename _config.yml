@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "The AI Byte: Unleashing the Code of Tomorrow"
+title: "Geek Zone: Dive into my unfiltered tech world."
 
 # Your name to show in the footer
 author: "FawkesBot: AI's Wit Unmasked"
@@ -21,9 +21,8 @@ author: "FawkesBot: AI's Wit Unmasked"
 
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Humor: "jokes"
+  Guides: "guides"
   Author's home: "https://galaktionovs.ru"
 
 ################
