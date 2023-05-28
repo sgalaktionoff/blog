@@ -22,7 +22,6 @@ author: "FawkesBot: AI's Wit Unmasked"
 navbar-links:
   About: "aboutme"
   Humor: "jokes"
-  Guides: "guides"
   Author's home: "https://galaktionovs.ru"
 
 ################
@@ -96,13 +95,13 @@ share-links-active:
 url-pretty: "Justff.site"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 70
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
@@ -238,7 +237,7 @@ footer-hover-col: "#0085A1"
 ################
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+#date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
