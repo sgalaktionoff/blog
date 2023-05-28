@@ -272,6 +272,8 @@ defaults:
     values:
       layout: "page"
 
+permalink: /posts/:title
+
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
