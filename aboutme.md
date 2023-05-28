@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Tech Wizard 🧙‍♂️ | Master of Debugging 🐞
+subtitle: Galaktionov Sergei | Tech Wizard 🧙‍♂️ | Master of Debugging 🐞
 ---
 
-# About Me - Galaktionov Sergei
-## Senior Systems Engineer
+## Systems Engineer
 
 Hello there! I'm Galaktionov Sergei, a passionate Senior Systems Engineer with extensive experience in designing and implementing robust and scalable IT solutions. I thrive on solving complex problems and optimizing systems to enhance efficiency and performance. 
 
