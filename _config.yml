@@ -98,7 +98,7 @@ url-pretty: "Justff.site"
 excerpt_length: 70
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
@@ -271,8 +271,6 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
-
-permalink: /posts/:title
 
 # Exclude these files from production site
 exclude:
