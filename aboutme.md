@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Galaktionov Sergei |Tech Wizard 🧙‍♂️| Master of Debugging 🐞
+subtitle: Galaktionov Sergei-Tech Wizard 🧙‍♂️-Master of Debugging 🐞
 ---
 
 ## Systems Engineer
