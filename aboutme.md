@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+cover-img: assets/img/aboutme-01.png
 subtitle: Galaktionov Sergei | Jedi Master of the Server Force ⚡️
 ---
 
